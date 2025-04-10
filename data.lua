@@ -96,6 +96,7 @@ local quantum_accumulator_item = {
 local quantum_accumulator_recipe = {
     type = "recipe",
     name = "qa_quantum-accumulator",
+    category = "electronics-or-assembling",
     energy_required = 10,
     enabled = false,
     ingredients =
