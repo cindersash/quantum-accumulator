@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 10. 04. 2025
+  Major Features:
+    - You can now use the upgrade planner to upgrade regular accumulators
+  Bugfixes:
+    - Fix icons
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 09. 04. 2025
   Major Features:
